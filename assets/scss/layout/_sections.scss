@@ -38,6 +38,7 @@
 /* sections */
 .section {
     padding: 70px 10px;
+    
 
     .section-title {
         font-size: calc(20px + (35 - 20) * ((100vw - 300px) / (1300 - 300)));   
@@ -61,4 +62,5 @@
     &-lg {
         padding: 100px 0 !important;
     } 
+
 }
